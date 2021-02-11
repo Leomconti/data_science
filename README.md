@@ -8,4 +8,8 @@
 My personal Data Science portifolio
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/leomconti)
+* [github](https://github.com/Leomconti)
+
+* [linkedin](https://www.linkedin.com/in/leomconti/)
+
+* [medium](https://medium.com/@leomconti)

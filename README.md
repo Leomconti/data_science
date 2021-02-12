@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png >
+  <img src="/img/banner.png >
 </p>
 
 # Leonardo Mosimann Conti

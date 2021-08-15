@@ -17,6 +17,9 @@ Projects list in Jupyter Notebook:
   ---
   
 ### About me:
+  
+Computer science student, enthusiast in Data Science and Artificial Intelligence
+  
 * [github](https://github.com/Leomconti)
 
 * [linkedin](https://www.linkedin.com/in/leomconti/)

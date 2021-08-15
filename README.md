@@ -3,7 +3,7 @@
 </p>
 
 # Leonardo Mosimann Conti
-<sub> *Computer Science Undergraduate* | *Studying Data Science* <sub>
+<sub> *Computer Scientist* | *Data Science* <sub>
 
 My personal Data Science portifolio
 

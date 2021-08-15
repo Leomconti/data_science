@@ -16,8 +16,8 @@ My personal Data Science portifolio
   
   ---
   
-  ##Projects: 
-  Projects list in Jupyter Notebook:
+##Projects: 
+Projects list in Jupyter Notebook:
   
  * [Airbnb Data Analysis in Toronto](https://github.com/Leomconti/data_science/blob/main/airbnb_data_analysis_toronto.ipynb)
   

@@ -16,6 +16,6 @@ My personal Data Science portifolio
   
  My projects
   
- *[Airbnb Data Analysis in Toronto](https://github.com/Leomconti/data_science/tree/main/Airbnb_DataAnalysis)
+ * [Airbnb Data Analysis in Toronto](https://github.com/Leomconti/data_science/tree/main/Airbnb_DataAnalysis)
   
-  *[Covid 19 state in Brazil](https://github.com/Leomconti/data_science/tree/main/Covid19_Analysis)
+ * [Covid 19 state in Brazil](https://github.com/Leomconti/data_science/tree/main/Covid19_Analysis)

@@ -7,6 +7,15 @@
 
 My personal Data Science portifolio
 
+## Projects: 
+Projects list in Jupyter Notebook:
+  
+ * [Airbnb Data Analysis in Toronto](https://github.com/Leomconti/data_science/blob/main/airbnb_data_analysis_toronto.ipynb)
+  
+ * [Covid 19 state in Brazil](https://github.com/Leomconti/data_science/blob/main/Covid_19_state_in_Brazil.ipynb)
+  
+  ---
+  
 **Links:**
 * [github](https://github.com/Leomconti)
 
@@ -14,11 +23,4 @@ My personal Data Science portifolio
 
 * [medium](https://medium.com/@leomconti)
   
-  ---
-  
-## Projects: 
-Projects list in Jupyter Notebook:
-  
- * [Airbnb Data Analysis in Toronto](https://github.com/Leomconti/data_science/blob/main/airbnb_data_analysis_toronto.ipynb)
-  
- * [Covid 19 state in Brazil](https://github.com/Leomconti/data_science/blob/main/Covid_19_state_in_Brazil.ipynb)
+ 

@@ -16,7 +16,7 @@ Projects list in Jupyter Notebook:
   
   ---
   
-**Links:**
+### About me:
 * [github](https://github.com/Leomconti)
 
 * [linkedin](https://www.linkedin.com/in/leomconti/)

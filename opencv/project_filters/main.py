@@ -29,8 +29,8 @@ def main():
         # quando alguma imagem for selecionada, utilizar essa ao inves da empty
         if image_file is not None:
             our_image = Image.open(image_file)
-            st.sidebar.text("Original Image")
-            st.sidebar.image(our_image, width=150)
+        st.sidebar.text("Original Image")
+        st.sidebar.image(our_image, width=150)
 
         col1, col2 = st.columns(2)
 
